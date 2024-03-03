@@ -1,3 +1,3 @@
 # OS
 
-作業系統相關程式練習
+Learn the basic development of operating system programs, including algorithms related to parallel computing.
